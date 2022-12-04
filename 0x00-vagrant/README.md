@@ -1,1 +1,1 @@
-Running 'uname'
+Linux
